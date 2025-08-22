@@ -29,7 +29,7 @@ Las características seleccionadas para entrenar el modelo son:
 - Con una edad de 65 años y un tiempo de 4 días se obtiene un resultado de 72.1%.
 
 **Valores de edad a partir de los cuales la probabilidad de fallecimiento excede el 70%.**
-- Siguiendo la lógica del primer punto, con 60 años en adelante, manteniendo fijo el seguimiento en 1 día, las probabilidades de fallecimiento superan el 70%.
+- Con 60 años en adelante, manteniendo fijo el seguimiento en 1 día, las probabilidades de fallecimiento superan el 70%.
 
 **Valores de tiempo de seguimiento (en días) a partir de los cuales el riesgo también supera el 70%.**
 - Con una edad fija de 70 años, comenzando desde 20 días de observación y bajando hasta 1 día, todos los casos superan el 70%.
